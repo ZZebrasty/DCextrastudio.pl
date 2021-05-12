@@ -1,0 +1,20 @@
+1. Ogólne
+1.1 Nieprzestrzeganie poniższego regulaminu wiąże się z otrzymaniem kary. 
+1.2 Nieznajomość regulaminu nie zwalnia z jego przestrzegania. 
+1.3 Administracja ma pełne prawa do zmieniania treści regulaminu bez wcześniejszego 
+powiadomienia użytkowników o zmianie.
+1.4 Zakaz podszywania się
+2. Pliki Gry
+2.1 Zakazane jest zmienianie nazwy plików gry. (dlatego że potem może nie działać gra)
+2.2 Zakazane jest używanie gry do celów zarobku typu: Kopanie Btc lub innej krypto waluty.
+2.3 Zakazany jest JAKIKOLWIEK plagiat gry.
+2.4 Zakazane jest udostępnianie tej gry za pieniądze (2.3, 2.2).
+2.5 Zakazane jest sprzedawanie plików gry (2.4).
+3. Właściciel
+3.1 Właściciel - żebrasty YT
+3.2 Scenarzysta - Miodek
+4. Login
+4.1 Nazwa nie może zawierać wulgarnych wyrazów w jakim kolwiek języku.
+4.2 Zakazane jest podawanie losowego kodu.
+4.3 Zakazane jest używanie kodów tylko dla administracji (4.4) bez pozwolenia developera (żebrasty YT).
+4.4 Zakaz podszywania się.
